@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int english; 
+    int english;  
     int maths; 
     int hindi;  
     int drawing;

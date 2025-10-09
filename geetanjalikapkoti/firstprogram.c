@@ -3,7 +3,7 @@ int main()
 {
     int english;
     int maths;
-    int hindi; 
+    int hindi;  
     int drawing;
     int total;
     float percentage;

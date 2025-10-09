@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int english;
-    int maths;
+    int english; 
+    int maths; 
     int hindi;  
     int drawing;
     int total;
